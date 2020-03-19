@@ -29,3 +29,9 @@
 \
 \
 ![GitHub Logo](https://github.com/Amran-Lab/QA-SFIA/blob/master/Trello1.PNG?raw=true)
+\
+\
+\
+\
+\
+![GitHub Logo](https://github.com/Amran-Lab/QA-SFIA/blob/master/Trello2.PNG?raw=true)
