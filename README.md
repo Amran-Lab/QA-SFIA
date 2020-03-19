@@ -20,3 +20,9 @@
 | Underestimation of the time/resource commitment | 6/10        | Trello Board                                      | 4/10            |
 | Running out of Money for Cloud                  | 3/10        | Pausing instance when not in use                  | 2/10            |
 | Getting Hacked                                  | 7/10        | Strong password                                   | 4/10            |
+
+
+
+
+
+![GitHub Logo](https://github.com/Amran-Lab/QA-SFIA/blob/master/Trello1.PNG?raw=true)
