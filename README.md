@@ -3,3 +3,25 @@
 
 
 ![GitHub Logo](https://github.com/Amran-Lab/QA-SFIA/blob/master/Entity%20Relationship%20Diagram%20(UML%20Notation).jpeg?raw=true)
+
+| Risk Assessment  | Second Header | First Header  | Second Header |
+| ------------- | ------------- | ------------- | ------------- |
+| Corrupted Files  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  ||
+
+
+
+
+
+
+| Risk Assessment                                 | Risk Factor | Mitigating                                        | New Risk Factor |
+|-------------------------------------------------|-------------|---------------------------------------------------|-----------------|
+| Corrupted Files                                 | 8/10        | Online Version Control                            | 3/10            |
+| Deleted Files                                   | 6/10        | Online Version Control                            | 1/10            |
+| Losing Git Password                             | 9/10        | Have Email Recovery                               | 2/10            |
+| Falling Sick                                    | 9/10        | Maintain Health/Visiting Doc/Sanitizing/Isolating | 7/10            |
+| Data of Site Leaked                             | 3/10        | Hashing/Storing Sensitive Information             | 1/10            |
+| Not Understanding Own Code                      | 7/10        | Good Commenting                                   | 5/10            |
+| Underestimation of the time/resource commitment | 6/10        | Trello Board                                      | 4/10            |
+| Running out of Money for Cloud                  | 3/10        | Pausing instance when not in use                  | 2/10            |
+| Getting Hacked                                  | 7/10        | Strong password                                   | 4/10            |
