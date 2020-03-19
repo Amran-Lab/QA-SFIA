@@ -23,10 +23,9 @@
 
 
 
-/n
 \n
 \n
-\\\
-\
-\
+\n
+\n
+\n
 ![GitHub Logo](https://github.com/Amran-Lab/QA-SFIA/blob/master/Trello1.PNG?raw=true)
